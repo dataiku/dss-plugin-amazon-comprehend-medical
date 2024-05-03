@@ -1,5 +1,5 @@
 boto3==1.15.14
-tqdm==4.50.1
+tqdm==4.66.3
 ratelimit==2.2.1
 retry==0.9.2
 more-itertools==8.5.0
